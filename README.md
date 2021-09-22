@@ -1,4 +1,6 @@
 # JOB-A-THON Sept 2021
+
+## Supplement-Sales-Prediction
 WOMart follows a multi-channel distribution strategy with 350+ retail stores spread across 100+ cities.
 
 Effective forecasting for store sales gives essential insight into upcoming cash flow, meaning WOMart can more accurately plan the cashflow at the store level.
